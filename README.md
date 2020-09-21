@@ -1,2 +1,2 @@
-# tfjs.interactive-polynomial-regression-sgd
+# tfjs.interactive-linear-regression-sgd
 Created with CodeSandbox
